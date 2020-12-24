@@ -11,6 +11,5 @@ Unity Esports Organisation was founded in 2020 with the objective to make player
 <!DOCTYPE> 
 <html>
 <body>
-<img src = 'https://media.discordapp.net/attachments/731927884771622972/791678836995129384/uehd.png?width=960&height=540'>
   </body> 
 </html>
